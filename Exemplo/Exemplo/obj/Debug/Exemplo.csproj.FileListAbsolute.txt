@@ -1,0 +1,10 @@
+c:\users\anabo\source\repos\Exemplo\Exemplo\bin\Debug\Exemplo.exe.config
+c:\users\anabo\source\repos\Exemplo\Exemplo\bin\Debug\Exemplo.exe
+c:\users\anabo\source\repos\Exemplo\Exemplo\bin\Debug\Exemplo.pdb
+c:\users\anabo\source\repos\Exemplo\Exemplo\obj\Debug\Exemplo.csprojAssemblyReference.cache
+c:\users\anabo\source\repos\Exemplo\Exemplo\obj\Debug\Exemplo.Form1.resources
+c:\users\anabo\source\repos\Exemplo\Exemplo\obj\Debug\Exemplo.Properties.Resources.resources
+c:\users\anabo\source\repos\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.GenerateResource.cache
+c:\users\anabo\source\repos\Exemplo\Exemplo\obj\Debug\Exemplo.csproj.CoreCompileInputs.cache
+c:\users\anabo\source\repos\Exemplo\Exemplo\obj\Debug\Exemplo.exe
+c:\users\anabo\source\repos\Exemplo\Exemplo\obj\Debug\Exemplo.pdb
